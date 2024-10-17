@@ -18,6 +18,6 @@
     <h1>Hesandu MODAYA!</h1>
     <h2>Imeth <strong>Baby</strong></h2>
     <img>
-    <p><h3>welcome to my website. <i>Don't think about above things.</i> Those guys are very ugly. By the way <strong>I am a MC player and a gamer</strong>.Usually I play games on my smart phone so...<i>Nevermind that.</i> have fun.<h3><p>
+    <p><h3>welcome to my website. <i>Don't think about above things.</i> Those guys are very ugly. By the way <strong>I am a MC player and a gamer</strong>.Usually I play games on my smart phone so...<i>Nevermind that.</i> have fun.</h3><p>
 </body>
 </html>
