@@ -16,10 +16,10 @@
   <body>
     <h1>Hesandu MODAYA!</h1>
     <h2>Imeth <strong>Baby</strong></h2>
-    <picture>
+      <picture>
         <source media="(prefers-color-
         scheme:light)" scrset="https://github.com/user-attachments/assets/3f296ea6-7986-4b8c-974f-750fa5e3ff74.png">
-    </picture>
+      </picture>
     <p><h3>welcome to my website. <i>Don't       think about above things.</i> Those guys 
     are very ugly. By the way <strong>I am a 
     MC player and a gamer</strong>. Usually 
