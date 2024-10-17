@@ -16,6 +16,8 @@
   <body>
     <h1>Hesandu MODAYA!</h1>
     <h2>Imeth <strong>Baby</strong></h2>
+      ![IMG_20241017_181012](https://github.com/user-attachments/assets/edf5c1b5-fe3c-4fc3-886a-1eb0bf167498)
+
     <p><h3>welcome to my website. <i>Don't       think about above things.</i> Those guys 
     are very ugly. By the way <strong>I am a 
     MC player and a gamer</strong>. Usually 
