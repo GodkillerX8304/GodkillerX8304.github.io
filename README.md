@@ -16,6 +16,6 @@
 </head>
 <body>
     <h1>Hesandu MODAYA!</h1>
-    <h2>Imeth <strong>Baby</strong><h2>
+    <h2>Imeth <strong>Baby</strong><h2
 </body>
 </html>
